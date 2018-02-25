@@ -1,4 +1,4 @@
-# Feb 2018 Constitution Amendment Proposal
+﻿# Feb 2018 Constitution Amendment Proposal
 
 ## Purpose
 
@@ -19,3 +19,8 @@ Please note that, although all information is retrieved from official informatio
 source, proposal of constitution amendment is subject to change with furtuer notice.
 (Is there any case that constitution amendment happens without any implicit or expressed
 notice? LOL)
+
+## Source
+
+- [（受权发布）中国共产党中央委员会关于修改宪法部分内容的建议](http://www.xinhuanet.com/2018-02/25/c_1122451187.htm)
+- [中华人民共和国宪法（全文）](http://people.com.cn/GB/shehui/1060/2391834.html)
